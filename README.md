@@ -1,7 +1,7 @@
 # CSC2552-Final-Project-Code
-## Project: Machine Learning Analysis in People's Identifications of Paintings Produced by Humans or AI
-## Name: Sunnie (Chang) Qu
-## Course: CSC2552 Fall 2023
+### Project: Machine Learning Analysis in People's Identifications of Paintings Produced by Humans or AI
+### Name: Sunnie (Chang) Qu
+### Course: CSC2552 Fall 2023
 
 1. Initial Data Cleaning and Processing.ipynb: contains codes of data cleaning, processing, and inspection
 2. Linear Regressioin.ipynb: contains linear regression analysis on identification accuracy
